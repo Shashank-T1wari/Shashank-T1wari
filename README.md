@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am currently learning DSA in c/c++
+Skills: System Verlilog
+My pronouns are he/him
+Fun Fact: Jellyfishes are immortal, when they are old they revert to their younger self essentially reliving their lifespan!!
+
 <!--
 **Shashank-T1wari/Shashank-T1wari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
